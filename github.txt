@@ -23,7 +23,7 @@ git push -u origin master
 
 echo "# resource" >> README.md
 git add ./
-git commit -m "first commit"
+git commit -m "22 commit"
 git push
 git log --oneline
 ls
