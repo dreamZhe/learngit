@@ -22,7 +22,7 @@ git push -u origin master
 
 
 echo "# resource" >> README.md
-git add ./
+git add .
 git commit -m "next"
 git push
 git log --oneline
